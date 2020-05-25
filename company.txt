@@ -1,0 +1,5 @@
+HOME###TITLE|MICROSOFT###PARA|WHAT WE DO!!!|kafhkeukeggeflnrgoirjhrpmaoigrl kbjnotrjypon ypymedpory###FOOTER|MICROSOFT WORD(2000-2019)###
+ABOUT###PARA|ABOUT US|rgejnbohjtrknkjkty;lmhrhtjoihwjwowhnonoktnhoiwnvoi###
+SERVICES###SERVICE1|HTML|Analytics###SERVICE2|Cybersecurity & GRC Servi|infosys information platform###SERVICE3|Google Could|Cloude computing###
+CONTACT###ADDRESS|Ganga nagar|Bangalore|karnataka|5600232###PHONE|8553745310###MAIL|MindTreeDrive@gmail.com###
+SOCIAL###FB|https://www.facebook.com/Infosys/###GPLUS|https://www.youtube.com/user/Infosys###TWITTER|https://twitter.com/Infosys?s=08###
